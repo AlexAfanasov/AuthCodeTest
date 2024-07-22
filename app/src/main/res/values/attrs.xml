@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseToolbarView">
+        <attr name="showToolbarTitle" format="boolean" />
+        <attr name="titleToolbarText" format="string" />
+        <attr name="showBackArrow" format="boolean" />
+        <attr name="showRightButton" format="boolean" />
+        <attr name="rightToolbarText" format="string" />
+        <attr name="backDrawable" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SmsConfirmationView">
+        <attr name="scv_showCursor" format="boolean" />
+        <attr name="scv_pasteEnabled" format="boolean" />
+        <attr name="scv_symbolWidth" format="dimension" />
+        <attr name="scv_symbolHeight" format="dimension" />
+        <attr name="scv_symbolTextColor" format="color" />
+        <attr name="scv_symbolTextSize" format="dimension" />
+        <attr name="scv_symbolBackgroundColor" format="color" />
+        <attr name="scv_symbolBorderColor" format="color" />
+        <attr name="scv_symbolBorderActiveColor" format="color" />
+        <attr name="scv_symbolBorderWidth" format="dimension" />
+        <attr name="scv_symbolBorderCornerRadius" format="dimension" />
+        <attr name="scv_symbolsSpacing" format="dimension" />
+        <attr name="scv_codeLength" format="integer" />
+        <attr name="scv_smsDetectionMode" format="enum">
+            <enum name="disabled" value="0" />
+            <enum name="auto" value="1" />
+            <enum name="manual" value="2" />
+        </attr>
+        <attr name="scv_symbolTextFont" format="reference" />
+    </declare-styleable>
+</resources>

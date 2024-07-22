@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">authCode</string>
+
+    <!--   region General Error Text-->
+    <string name="general_error_text_unknown">Unknown Error</string>
+    <string name="general_error_text_no_internet">You have no internet</string>
+    <!--   endregion-->
+
+    <!--   region no internet fragment-->
+    <string name="no_internet_headline">Нет интернета</string>
+    <string name="no_internet_instruction">Проверьте подключение к сети и попробуйте снова</string>
+    <string name="no_internet_button">Повторить</string>
+    <!--   endregion-->
+
+    <!--   region Authorization Phone Number-->
+    <string name="close_text">Закрыть</string>
+    <string name="auth_code_header">Введите код,\nполученный из SMS</string>
+    <string name="resend_auth_code">Отправить код повторно</string>
+    <string name="code_sms_phone_instruction">Отправили код для подтверждения на номер %1$s</string>
+    <string name="resend_code_timer_text">Отправить код повторно через %1$s</string>
+    <string name="wrong_sms_code">Код неверный, проверьте введенные данные</string>
+    <string name="success_auth">Вход успешен, переходим на главный экран</string>
+    <!--   endregion-->
+
+</resources>

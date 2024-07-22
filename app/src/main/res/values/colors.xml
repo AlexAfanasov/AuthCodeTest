@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Violet -->
+    <color name="violet_100">#1A0653</color>
+    <color name="violet_90">#402F6F</color>
+    <color name="violet_25">#B2ACC5</color>
+    <color name="violet_5">#D3CFDE</color>
+
+    <!--    Cherry -->
+    <color name="cherry_100">#4D194B</color>
+    <color name="cherry_90">#6A3F69</color>
+    <color name="cherry_25">#C3B2C3</color>
+    <color name="cherry_5">#DFD5DF</color>
+
+    <!--    Black -->
+    <color name="black_solid_100">#040415</color>
+    <color name="black_solid_50">#9B9DA1</color>
+
+
+    <!--    White -->
+    <color name="white_100">#FFFFFF</color>
+
+    <!--    Error -->
+    <color name="error_100">#FE483C</color>
+
+    <!--    Transparent -->
+    <color name="transparent">#00000000</color>
+
+</resources>
